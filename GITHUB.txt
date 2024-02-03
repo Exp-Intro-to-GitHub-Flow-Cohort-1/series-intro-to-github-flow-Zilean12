@@ -1,0 +1,10 @@
+Capstone team members' names:
+Aryan Sharma (BT21GCS161)
+Ranjeev Singh (BT21GCS080)
+Raja Pandey (BT21GCS323)
+Rishabh Gupta (BT21GCS020)
+
+GitHub:
+https://github.com/Zilean12/Calculator.git
+
+We have sent a GitHub invite to hurkat (github id).
